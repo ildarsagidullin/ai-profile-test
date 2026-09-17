@@ -1,4 +1,4 @@
-export const submissionEndpoint = "";
+export const submissionEndpoint = "https://script.google.com/macros/s/AKfycbwmAZ8N9ZwLNmoBCF-lns-j7a5MLbcWK8gQQdKjwmW3cunNpPBEzI0jSZzBd5ihcht4/exec";
 
 export const funnelId = "reels-cold-ai-profile-v1";
 
