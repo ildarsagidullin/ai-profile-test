@@ -1,4 +1,4 @@
-import { dimensionDefinitions, funnelId, submissionEndpoint, surveyQuestions } from "./survey-config.js?v=1";
+import { dimensionDefinitions, funnelId, submissionEndpoint, surveyQuestions } from "./survey-config.js?v=2";
 import {
   createSubmissionPayload,
   getDynamicQuestion,
@@ -7,7 +7,7 @@ import {
   optionLabel,
   optionValue,
   toggleMultiple
-} from "./survey-engine.js?v=1";
+} from "./survey-engine.js?v=2";
 
 const DRAFT_KEY = "ai-profile-reels-draft-v1";
 const COMPLETE_KEY = "ai-profile-reels-complete-v1";
