@@ -1,4 +1,4 @@
-import { dimensionDefinitions, profileDefinitions, surveyQuestions } from "./survey-config.js?v=1";
+import { dimensionDefinitions, profileDefinitions, surveyQuestions } from "./survey-config.js?v=2";
 
 export function optionValue(option) {
   return typeof option === "string" ? option : option.value ?? option.label;
